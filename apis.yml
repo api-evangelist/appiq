@@ -30,7 +30,7 @@ x-status: defunct
 x-status-detail: 'Acquired by Hewlett-Packard in October 2005; no independent live API surface (appiq.com
   redirects to hpe.com). appiq.io is an unrelated parked domain.'
 x-enrichment-checked: '2026-07-17'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
